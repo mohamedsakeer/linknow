@@ -1,0 +1,144 @@
+I already have a live website design.
+
+I am attaching a reference image that represents the EXACT design direction I want.
+
+Your task is to REDESIGN my existing website UI to visually match the reference style while keeping my current functionality.
+
+IMPORTANT:
+Do NOT rebuild from scratch.
+Do NOT change my backend logic.
+Only transform the UI/UX.
+
+Treat the reference image as the visual benchmark for:
+
+• layout  
+• spacing  
+• hierarchy  
+• typography  
+• button styles  
+• card design  
+• colors  
+• overall premium feel  
+
+Do NOT copy it blindly — adapt my content into that design language.
+
+------------------------------------
+
+PRIMARY OBJECTIVE:
+Make my website look like a HIGH-END personal brand instead of a property marketplace.
+
+Shift the focus from property listings → to the agent.
+
+------------------------------------
+
+TOP SECTION (HERO)
+
+Redesign my hero section to match the reference style:
+
+• Large centered profile image  
+• Cleaner background  
+• More whitespace  
+• Strong typography  
+
+Remove visual clutter.
+
+Add a dominant modern CTA button such as:
+
+"Book a Call" or "Book a Private Consultation"
+
+Make this the strongest visual element.
+
+Properties should NOT dominate the first screen.
+
+------------------------------------
+
+LAYOUT CHANGES
+
+Reduce the crowded property grid.
+
+Show fewer cards with more spacing.
+
+Make the interface breathe.
+
+Adopt the layered card style seen in the reference image.
+
+Use rounded corners and soft shadows.
+
+------------------------------------
+
+VISUAL STYLE
+
+Apply a modern premium aesthetic:
+
+• soft gradients  
+• subtle shadows  
+• elegant colors  
+• minimal dividers  
+• large readable text  
+
+Avoid anything that looks like a template.
+
+Avoid bright broker-style colors.
+
+The design should feel calm, expensive, and professional.
+
+------------------------------------
+
+TYPOGRAPHY
+
+Improve hierarchy using larger font sizes.
+
+Create clear contrast between:
+
+headline  
+subheadline  
+section titles  
+body text  
+
+Do NOT compress text.
+
+Luxury design uses space.
+
+------------------------------------
+
+CTA UPGRADE
+
+Replace overly basic buttons with modern high-contrast buttons.
+
+Add a sticky mobile CTA at the bottom for WhatsApp or booking.
+
+Make buttons rounded with good padding.
+
+------------------------------------
+
+PROPERTY SECTION
+
+After redesigning the hero:
+
+Rebuild the property layout to match the cleaner style from the reference.
+
+Use either:
+
+• horizontal scrolling cards  
+OR  
+• a spaced 2-column grid  
+
+Avoid tight layouts.
+
+Each card should feel premium.
+
+------------------------------------
+
+FINAL DESIGN GOAL
+
+When someone lands on the site, the immediate impression should be:
+
+"This agent looks high-end and trustworthy."
+
+NOT:
+
+"This is just another listings page."
+
+Push the design toward a luxury personal brand experience.
+
+After completing the redesign, review it once more and refine spacing, typography, and hierarchy to ensure the interface feels premium and modern.

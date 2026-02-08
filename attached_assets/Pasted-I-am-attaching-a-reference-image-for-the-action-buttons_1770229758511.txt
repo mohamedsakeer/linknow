@@ -1,0 +1,137 @@
+I am attaching a reference image for the action buttons design.
+
+Your task is to TRANSFORM my existing website UI so the action buttons and interaction style match the reference image EXACTLY in terms of layout, spacing, gradients, and modern mobile-first appearance.
+
+IMPORTANT:
+Do NOT rebuild the site.
+Do NOT break existing functionality.
+Only upgrade the UI/UX and interaction flow.
+
+-------------------------------------
+
+⭐ ACTION BUTTON SYSTEM (HIGHEST PRIORITY)
+
+Redesign the profile section to include a modern action dashboard using the reference style.
+
+Buttons must look soft, premium, rounded, and slightly elevated with subtle shadows and gradients.
+
+Create the following buttons:
+
+1️⃣ Book a Call  
+• Large gradient button  
+• Include a visible "30 mins" indicator next to it  
+• Make this the PRIMARY CTA  
+• It must visually dominate the section  
+
+2️⃣ Call  
+• Circular icon button  
+
+3️⃣ WhatsApp  
+• Circular icon button  
+
+4️⃣ Social Links  
+• Instagram icon  
+• LinkedIn icon  
+
+5️⃣ Email  
+• Icon button matching the same style  
+
+👉 ALL action buttons MUST appear inside the profile dashboard so they can be easily managed or edited later.
+
+Maintain consistent spacing between buttons.
+
+Follow the same visual softness seen in the reference image.
+
+-------------------------------------
+
+⭐ MOBILE vs DESKTOP
+
+MOBILE:
+Match the reference design closely.
+Buttons should feel touch-friendly with generous padding.
+
+DESKTOP:
+Use the EXACT same design language — do NOT switch to outdated rectangular buttons.
+
+Keep the modern floating style.
+
+-------------------------------------
+
+⭐ REQUEST FORM FLOW (VERY IMPORTANT)
+
+Remove the current request form behavior.
+
+NEW FLOW:
+
+When a user taps "Book a Call":
+
+→ Open a smooth in-page form (modal or slide-up panel).  
+→ After submission, redirect the user directly to WhatsApp — similar to an Airbnb-style checkout flow.
+
+The process must feel fast, guided, and frictionless.
+
+Avoid sending users to separate ugly pages.
+
+-------------------------------------
+
+⭐ AUTO-SCROLL SECTION
+
+Create a horizontally auto-scrolling section titled:
+
+"Latest Deals Closed"
+
+Requirements:
+
+• Smooth continuous scroll  
+• Pause on hover  
+• Mobile swipe enabled  
+• Premium card design  
+• Not crowded  
+
+This section should build trust instantly.
+
+-------------------------------------
+
+⭐ PROPERTY CARD FIXES
+
+Improve alignment and spacing across all property cards.
+
+Fix inconsistent padding and text placement.
+
+Remove the small image icon currently placed in the top-right corner of property cards.
+
+Instead:
+
+✅ Bring back the clear "Rent" or "Sale" badge like the previous version.  
+✅ Make badges more visible and premium.  
+
+Ensure every card has breathing room.
+
+The layout must feel organized and high-end — NOT like a crowded marketplace grid.
+
+-------------------------------------
+
+⭐ GLOBAL ALIGNMENT
+
+Review the entire page and correct:
+
+• spacing inconsistencies  
+• misaligned elements  
+• uneven margins  
+• cramped sections  
+
+Increase whitespace where needed.
+
+Luxury design always breathes.
+
+-------------------------------------
+
+⭐ FINAL DESIGN GOAL
+
+The interface should feel like a premium personal brand platform — NOT a generic property listing website.
+
+When users land on the page, the immediate impression should be:
+
+"This agent operates at a higher level."
+
+After completing the changes, review the UI once more and refine typography, spacing, and button hierarchy to ensure everything looks modern, soft, and premium.

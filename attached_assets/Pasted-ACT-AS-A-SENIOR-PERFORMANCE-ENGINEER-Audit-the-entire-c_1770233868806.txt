@@ -1,0 +1,171 @@
+ACT AS A SENIOR PERFORMANCE ENGINEER.
+
+Audit the entire codebase and infrastructure of this website and optimize it for maximum loading speed, low latency, and production-grade scalability.
+
+Follow these STRICT RULES without exception.
+
+----------------------------------
+
+RULE 1 — IMAGE OPTIMIZATION (HIGHEST PRIORITY)
+
+• Convert ALL images to WebP (AVIF if supported).
+• Do NOT allow raw camera images or files above 500KB.
+• Target size per image: 80KB – 200KB.
+
+Resize images BEFORE serving:
+
+- Thumbnail → 400px max width
+- Property card → 800px max width
+- Full property → 1600px max width
+
+Implement responsive images using srcset.
+
+Enable lazy loading on every image:
+
+loading="lazy"
+
+Serve properly sized images based on device width.
+
+Expected result: reduce page weight by 40–70%.
+
+----------------------------------
+
+RULE 2 — CDN IS MANDATORY
+
+Do NOT serve static assets directly from the origin server.
+
+Integrate Cloudflare CDN and configure:
+
+• Auto Minify (HTML, CSS, JS) → ON
+• Brotli Compression → ON
+• HTTP/3 → ON
+• Early Hints → ON
+• Tiered Cache → ON
+
+Cache durations:
+
+Images → 1 month  
+JS/CSS → 1 month  
+Fonts → 1 year  
+
+Create a "Cache Everything" rule for static pages.
+
+Goal: deliver assets from the nearest edge location globally.
+
+----------------------------------
+
+RULE 3 — MINIFY AND REDUCE JAVASCRIPT
+
+Remove unused packages and dependencies.
+
+Avoid heavy UI libraries unless absolutely necessary.
+
+Hard Targets:
+
+• Total JS bundle ideally under 250KB.
+• Eliminate render-blocking scripts.
+• Use tree shaking.
+• Use code splitting.
+• Defer non-critical JS.
+• Load third-party scripts asynchronously.
+
+Minify:
+
+- HTML
+- CSS
+- JS
+
+Improve First Contentful Paint and Time to Interactive.
+
+----------------------------------
+
+RULE 4 — AGGRESSIVE CACHING
+
+Implement browser caching with:
+
+Cache-Control: public, max-age=31536000, immutable
+
+Apply to:
+
+• Images  
+• CSS  
+• JS  
+• Fonts  
+
+Cache property listing pages for 5–15 minutes minimum to reduce server load.
+
+Do NOT regenerate identical responses repeatedly.
+
+----------------------------------
+
+RULE 5 — SERVER + PERFORMANCE OPTIMIZATION
+
+Enable GZIP or Brotli compression.
+
+Reduce Time To First Byte (TTFB).
+
+Optimize database queries:
+
+• Add indexes to frequently searched fields.
+• Prevent N+1 queries.
+• Use pagination.
+• Never load thousands of records at once.
+
+Enable keep-alive connections.
+
+Use connection pooling if applicable.
+
+----------------------------------
+
+RULE 6 — LOADING STRATEGY
+
+Prioritize above-the-fold content.
+
+Preload critical assets:
+
+- hero image
+- main CSS
+- primary font
+
+Defer everything non-critical.
+
+Avoid layout shifts.
+
+----------------------------------
+
+RULE 7 — LIGHTHOUSE TARGETS
+
+Optimize until reaching approximately:
+
+Performance Score → 90+
+Largest Contentful Paint → under 2.5s
+Total Blocking Time → under 200ms
+Cumulative Layout Shift → under 0.1
+
+----------------------------------
+
+RULE 8 — SCALABILITY PREPARATION
+
+Structure the system so it can scale to 10,000+ listings without performance degradation.
+
+Separate static assets from application servers.
+
+Design for horizontal scaling readiness.
+
+----------------------------------
+
+IMPORTANT ARCHITECTURE NOTE:
+
+If currently hosted on Replit, treat it as a development-friendly environment — NOT a high-performance production infrastructure.
+
+Prepare the codebase so it can be deployed easily to platforms like Vercel, Render, or AWS when traffic increases.
+
+----------------------------------
+
+After completing these optimizations:
+
+1. Provide a performance report.
+2. List improvements made.
+3. Show before vs after metrics.
+4. Highlight remaining bottlenecks.
+5. Recommend the next highest-impact upgrade.

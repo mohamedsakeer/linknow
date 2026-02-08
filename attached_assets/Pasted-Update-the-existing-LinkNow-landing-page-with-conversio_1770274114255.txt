@@ -1,0 +1,128 @@
+Update the existing LinkNow landing page with conversion-focused improvements. Do NOT redesign the page. Do NOT change the layout drastically. Only apply the following surgical changes. Keep the design minimal, premium, and high-trust. Avoid adding new sections or visual clutter.
+
+HERO SECTION FIXES (VERY IMPORTANT)
+1. REMOVE the signup form from the hero section.
+
+Delete the phone number / input form completely from above the fold.
+
+Reason: Asking for contact details too early creates friction and reduces conversions.
+
+Replace the form with clean spacing or visual balance.
+
+Users should click a CTA first before seeing any form.
+
+2. Increase Visual Dominance of This Phrase:
+
+Not “Hi / Hello” Messages
+
+Make it:
+
+Larger than the rest of the headline
+
+Higher contrast
+
+Bold
+
+This is the emotional hook. It must visually punch.
+
+3. Replace the Subheadline With This Exact Copy:
+
+Built specifically for Dubai agents who are serious about closing.
+Qualify buyers before the conversation even starts.
+
+This adds status psychology and filters for professionals.
+
+4. Add Micro Trust Text Under Primary CTA:
+
+Place directly below “Get My Lead Engine” button:
+
+Founder-led setup. Live in minutes.
+
+Keep it small but visible.
+
+Purpose: removes time-friction anxiety.
+
+FOUNDING OFFER SECTION UPGRADE
+
+Replace:
+
+Limited to the first 50 agents.
+
+WITH:
+
+Once 50 agents join, this offer disappears.
+
+This signals demand instead of hope.
+
+Maintain confident tone.
+
+No soft language.
+
+“WHY SERIOUS AGENTS ARE SWITCHING” SECTION FIX
+
+Replace the THIRD bullet completely.
+
+DELETE:
+
+Operate like a top-tier agent.
+
+REPLACE WITH:
+
+Stand out instantly from agents still sending buyers to raw WhatsApp.
+
+Supporting line:
+
+Your clients expect a professional experience — not messaging chaos.
+
+This introduces competitive fear, which increases conversions.
+
+LIVE EXAMPLE SECTION IMPROVEMENT
+
+Change label from:
+
+Live Dubai Agent Example
+
+TO:
+
+See a Real Agent Page — Not a Demo
+
+Reason: The word “demo” lowers trust.
+“Real” increases safety perception.
+
+Do not change layout.
+
+FOUNDER STRIP AUTHORITY BOOST
+
+Replace the founder text with:
+
+Built by a founder who understands how Dubai agents generate inbound buyers — personally onboarding the first users.
+
+Use the phrase inbound buyers, not leads.
+
+Revenue language converts better.
+
+GLOBAL RULES (DO NOT BREAK THESE)
+
+Do NOT add testimonials yet
+
+Do NOT add feature grids
+
+Do NOT add long paragraphs
+
+Do NOT use startup buzzwords
+
+Do NOT clutter the page
+
+Do NOT introduce new colors
+
+Maintain a calm, premium, high-competence feel.
+
+This product is infrastructure for commission-driven professionals — the page must reflect that.
+
+IMPORTANT UX RULE
+
+When a user clicks Get My Lead Engine, THEN show the signup / phone capture.
+
+Never before intent.
+
+Use a 2-step conversion flow.

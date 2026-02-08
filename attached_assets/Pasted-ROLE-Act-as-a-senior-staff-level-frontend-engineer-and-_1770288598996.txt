@@ -1,0 +1,439 @@
+ROLE
+
+Act as a senior staff-level frontend engineer and product designer.
+
+Do NOT behave like a creative AI.
+
+Do NOT redesign.
+
+Do NOT improvise.
+
+Do NOT choose your own spacing, typography, or layout patterns.
+
+You must execute a pixel-perfect, premium SaaS landing page using a strict design system.
+
+The result must feel comparable to top-tier SaaS companies like Stripe, Linear, Notion, or Vercel — minimal, spacious, and high-conversion.
+
+NOT template-like.
+
+PRIMARY OBJECTIVE
+
+Rebuild my landing page using a structured design system to eliminate:
+
+weak visual hierarchy
+
+random spacing
+
+full-width hero buttons
+
+floating icons
+
+cramped layout
+
+inconsistent typography
+
+low perceived product value
+
+poor CTA emphasis
+
+We are rebuilding — not tweaking.
+
+TECH REQUIREMENTS
+
+If no framework is enforced, use:
+
+👉 React + Tailwind
+
+Rules:
+
+Create reusable components
+
+No inline styles
+
+No random pixel values
+
+Use a global spacing scale
+
+Use a typography system
+
+Maintain optical alignment
+
+GLOBAL DESIGN SYSTEM (STRICT)
+Container
+max-width: 1120px;
+margin: 0 auto;
+padding-left: 24px;
+padding-right: 24px;
+
+
+Never exceed this width.
+
+Wide layouts destroy premium perception.
+
+Spacing System (ONLY use these values)
+8px
+16px
+24px
+32px
+40px
+48px
+64px
+72px
+96px
+
+
+If spacing is needed — pick from this scale only.
+
+Color System (LOCKED)
+
+Primary:
+
+#ff5a5f
+
+
+Text:
+
+#101828
+
+
+Secondary text:
+
+#667085
+
+
+Border:
+
+#EAECF0
+
+
+Soft background:
+
+#fff1f2
+
+
+White:
+
+#FFFFFF
+
+
+Do NOT invent new colors.
+
+Typography
+
+Font:
+
+Inter
+
+
+Allowed weights:
+
+400
+500
+600
+700
+
+
+Remove all others.
+
+NAVBAR
+
+Height:
+
+72px
+
+
+Layout:
+
+LEFT → logo
+RIGHT → Login + Primary Button
+
+Add subtle bottom border:
+
+1px solid #EAECF0
+
+Primary Nav Button
+height:44px
+padding:0 18px
+border-radius:10px
+background:#ff5a5f
+color:#fff
+font-weight:600
+
+
+Navbar must feel airy — not compressed.
+
+HERO SECTION (HIGHEST PRIORITY)
+
+Top padding:
+
+64px
+
+
+Bottom padding:
+
+96px
+
+
+Everything centered.
+
+Create strong visual hierarchy.
+
+Hero Heading
+font-size:56px
+line-height:1.1
+letter-spacing:-0.02em
+font-weight:700
+text-align:center
+max-width:900px
+margin:auto
+color:#101828
+
+
+Highlight this phrase in primary color:
+
+Not "Hi / Hello" Messages.
+
+Color:
+
+#ff5a5f
+
+Supporting Text
+font-size:18px
+color:#667085
+text-align:center
+max-width:640px
+margin:auto
+margin-top:24px
+
+CTA BUTTON ROW (CRITICAL FIX)
+
+Create a flex container:
+
+display:flex
+justify-content:center
+gap:16px
+margin-top:32px
+flex-wrap:wrap
+
+Primary Button
+height:56px
+padding:0 28px
+background:#ff5a5f
+color:white
+border-radius:12px
+font-weight:600
+
+
+👉 Button must hug content
+👉 NEVER full width
+
+Secondary Button
+height:56px
+padding:0 28px
+border:1px solid #D0D5DD
+border-radius:12px
+background:#fff
+
+
+Hover:
+
+background:#f9fafb
+
+Micro Trust Text (under buttons)
+font-size:14px
+color:#667085
+margin-top:8px
+text-align:center
+
+
+Example:
+Founder-led setup. Live in minutes.
+
+FOUNDING OFFER STRIP
+
+Create a soft announcement band:
+
+background:#fff1f2
+padding:20px
+border-radius:12px
+margin-top:64px
+text-align:center
+max-width:760px
+margin-left:auto
+margin-right:auto
+
+
+Must feel intentional — not like body text.
+
+WHY AGENTS ARE SWITCHING
+
+Section padding:
+
+96px 0
+
+Section Header
+font-size:34px
+font-weight:700
+text-align:center
+margin-bottom:16px
+
+
+Subtext:
+
+font-size:18px
+color:#667085
+
+Feature Grid
+display:grid
+grid-template-columns:repeat(3,1fr)
+gap:48px
+margin-top:56px
+
+
+Tablet → 2 columns
+Mobile → 1 column
+
+Icon Container (MANDATORY)
+
+Wrap icons inside:
+
+width:48px
+height:48px
+border-radius:12px
+background:#fff1f2
+display:flex
+align-items:center
+justify-content:center
+margin:auto
+margin-bottom:16px
+
+
+Floating icons are not allowed.
+
+SOCIAL PROOF CARD
+
+Create a premium card.
+
+Card
+max-width:420px
+margin:auto
+padding:32px
+border-radius:16px
+background:#fff
+box-shadow:0 10px 30px rgba(0,0,0,0.06)
+transition:0.2s
+
+
+Hover:
+
+transform:translateY(-4px)
+
+
+Must feel clickable.
+
+Button Inside Card
+
+Full width allowed ONLY here.
+
+height:48px
+border-radius:10px
+margin-top:16px
+font-weight:600
+
+FOUNDER TRUST LINE
+
+Add strong breathing room:
+
+margin-top:72px
+max-width:720px
+text-align:center
+color:#667085
+margin-left:auto
+margin-right:auto
+
+
+Optional: small founder icon above.
+
+FINAL CTA SECTION
+
+Do NOT use background color.
+
+Whitespace creates luxury perception.
+
+padding:96px 0
+text-align:center
+
+
+Heading:
+
+font-size:36px
+font-weight:700
+max-width:720px
+margin:auto
+
+
+Use the SAME primary button component for consistency.
+
+RESPONSIVE RULES (NON-NEGOTIABLE)
+Tablet
+3 columns → 2
+hero font → 44px
+
+Mobile
+hero font → 38px
+stack buttons
+center all text
+reduce section padding to 72px
+
+
+If layout feels cramped — increase spacing, never compress.
+
+ELITE UX STRUCTURE RULE
+
+Every section MUST follow:
+
+Headline  
+Subtext  
+Content  
+Whitespace  
+
+
+This creates visual rhythm and increases perceived quality.
+
+REMOVE IMMEDIATELY
+
+full-width hero buttons
+
+uneven spacing
+
+oversized containers
+
+random font sizes
+
+weak card styling
+
+floating elements
+
+template-like visuals
+
+FINAL QA CHECK (VERY IMPORTANT)
+
+Before finishing, audit the page like a senior designer:
+
+Ask:
+
+✅ Does this feel venture-backed?
+✅ Is spacing consistent?
+✅ Are CTAs dominant?
+✅ Does it look expensive?
+✅ Would a Series A startup ship this?
+
+If anything looks templated — refine it.
+
+FINAL COMMAND
+
+Do NOT summarize this spec.
+
+Execute it precisely.
+
+Build a clean, high-end, conversion-focused SaaS landing page that feels like a $50M-funded startup product.

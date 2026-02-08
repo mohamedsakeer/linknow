@@ -1,0 +1,151 @@
+Apply the following high-conversion copy updates to the existing LinkNow landing page. Do NOT redesign the page. Do NOT change layout structure. Only replace the specified text and remove unnecessary friction. Maintain a minimal, premium, high-trust design suitable for commission-driven real estate professionals. Avoid adding new sections, colors, or visual clutter.
+
+✅ HERO SECTION (CRITICAL CHANGES)
+1. Remove Technical-Sounding Language
+
+Delete any usage of the following terms across the page:
+
+Lead Engine
+
+Funnel
+
+Bio Tool
+
+Link in Bio
+
+These create confusion or reduce perceived value.
+
+Focus ONLY on outcomes.
+
+2. FINAL HEADLINE (Do NOT Modify Further)
+
+Replace the hero headline with:
+
+Turn Instagram Traffic Into Serious Property Buyers — Not “Hi / Hello” Messages.
+
+Make “Not ‘Hi / Hello’ Messages” visually dominant:
+
+Larger font
+
+Bold
+
+High contrast
+
+This is the emotional hook.
+
+3. FINAL SUBHEADLINE (Use Exactly This)
+
+Built specifically for Dubai real estate agents to turn Instagram traffic into qualified buyers.
+Know what the buyer wants before the conversation even starts.
+
+No extra sentences.
+
+No jargon.
+
+Clarity wins.
+
+4. Remove the Signup Form From the Hero
+
+If a phone number or input form exists above the fold, DELETE it.
+
+Do not ask for contact details before intent.
+
+Use a 2-step conversion flow:
+
+User clicks CTA → then sees signup.
+
+This increases conversions significantly.
+
+5. Add Micro Trust Text Under Primary CTA
+
+Directly below “Get My Lead Engine” button, add:
+
+Founder-led setup. Live in minutes.
+
+Keep the font small but readable.
+
+Purpose: eliminate perceived effort.
+
+✅ FOUNDING OFFER SECTION (Authority Upgrade)
+
+Replace:
+
+Limited to the first 50 agents.
+
+WITH:
+
+Once 50 agents join, this offer disappears.
+
+This signals demand instead of desperation.
+
+Maintain confident tone.
+
+No soft wording.
+
+✅ “WHY SERIOUS AGENTS ARE SWITCHING” SECTION
+
+Replace the THIRD bullet completely.
+
+DELETE:
+
+Operate like a top-tier agent.
+
+ADD:
+
+Stand out instantly from agents still sending buyers to raw WhatsApp.
+Your clients expect a professional experience — not messaging chaos.
+
+This introduces competitive tension, which improves conversions.
+
+✅ LIVE EXAMPLE SECTION (Trust Optimization)
+
+Change label from:
+
+Live Dubai Agent Example
+
+TO:
+
+See a Real Agent Page — Not a Demo
+
+The word “demo” lowers trust.
+“Real” increases safety perception.
+
+Do not alter layout.
+
+✅ FOUNDER STRIP (Authority Boost)
+
+Replace founder text with:
+
+Built by a founder who understands how Dubai agents generate inbound buyers — personally onboarding the first users.
+
+Use the phrase inbound buyers, not leads.
+
+Revenue language performs better.
+
+✅ GLOBAL DESIGN RULES (DO NOT BREAK)
+
+Do NOT add testimonials yet
+
+Do NOT add feature grids
+
+Do NOT write long paragraphs
+
+Do NOT introduce startup buzzwords
+
+Do NOT clutter the interface
+
+Do NOT redesign sections
+
+Keep the page calm, sharp, and confident.
+
+This product is professional infrastructure — the page must feel that way.
+
+✅ UX RULE (IMPORTANT)
+
+Only show signup fields AFTER a user clicks a CTA.
+
+Never before.
+
+Reduce friction wherever possible.
+
+END PROMPT.

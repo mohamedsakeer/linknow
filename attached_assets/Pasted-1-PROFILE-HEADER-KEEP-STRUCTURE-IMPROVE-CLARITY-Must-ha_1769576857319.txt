@@ -1,0 +1,132 @@
+1️⃣ PROFILE HEADER (KEEP STRUCTURE, IMPROVE CLARITY)
+Must have (already present – keep):
+Circular profile photo
+Agent full name (bold)
+Short bio line (1 sentence max)
+“Verified Agent” badge
+Location pill (e.g., Business Bay)
+Add (mandatory):
+Below bio line, add small helper text:
+“Tap any property to chat with me instantly on WhatsApp”
+Style:
+Small, light grey text
+Center aligned
+Non-clickable
+Do not make it visually dominant
+2️⃣ SECTION TITLE COPY (REPLACE GENERIC TEXT)
+Replace:
+FEATURED PROPERTIES
+With ONE of the following (pick one, make configurable later):
+“Available Right Now”
+“Handpicked Listings”
+“Homes You Can Enquire About”
+“Properties You Can Message Me About”
+Rules:
+Title must feel action-oriented
+Do not use generic real-estate wording
+Keep typography clean and simple
+3️⃣ PROPERTY CARD STRUCTURE (REFINE, DO NOT REBUILD)
+Keep existing:
+Image carousel with counter (1/4)
+Rent / Sale badge
+Property type pill (Apartment)
+Price
+Location
+Icons: beds, baths, size
+Card layout, rounded corners, spacing
+Improve (mandatory):
+A. Add contextual micro-text below price:
+For Rent:
+Yearly • Ready to move
+For Sale:
+Freehold • Serious buyers only
+Style:
+Small text
+Grey color
+Single line only
+B. Reduce visual dominance of pills:
+Keep both “Rent/Sale” and “Apartment”
+Make one lighter (lower opacity or lighter background)
+Primary focus order must be: Image → Price → WhatsApp CTA
+4️⃣ WHATSAPP CTA (VERY IMPORTANT)
+Replace button text:
+From: WhatsApp
+To one of the following:
+“Chat on WhatsApp”
+“Enquire on WhatsApp”
+“Ask About This Home”
+“Message Me on WhatsApp”
+(Default to “Chat on WhatsApp”)
+Add micro-helper text ABOVE button:
+One line only:
+“Instant reply on WhatsApp”
+OR “No forms. Direct WhatsApp chat.”
+Style:
+Small
+Grey
+Non-clickable
+WhatsApp behavior (MANDATORY):
+Clicking WhatsApp opens pre-filled message
+Message must include:
+Property type
+Rent/Sale
+Location
+Price
+Example format:
+Hi Mohamed, I’m interested in the 2-bedroom apartment for rent in Jumeirah Beach listed at 123,800 AED. Please share more details.
+5️⃣ STICKY WHATSAPP BAR (MOBILE ONLY – REQUIRED)
+Add fixed bottom bar on mobile:
+Text:
+“Chat with Mohamed on WhatsApp”
+Behavior:
+Opens WhatsApp with generic intro message
+Not property-specific
+Always visible while scrolling
+Does NOT hide property buttons
+Generic message:
+Hi Mohamed, I found your Linknow page and would like to enquire about your available properties.
+6️⃣ USER EXPERIENCE RULES (DO NOT VIOLATE)
+Must NOT add:
+❌ Contact forms
+❌ Email buttons
+❌ Phone call buttons
+❌ Booking forms
+❌ Filters or search
+❌ Social media icons
+❌ Share clutter
+❌ Login or signup for visitors
+This is not a listing portal.
+This is a conversion page to WhatsApp.
+7️⃣ DESIGN & FEEL (IMPORTANT)
+White background
+Generous spacing
+Rounded cards
+Soft shadows
+Airbnb-level cleanliness
+No aggressive colors except WhatsApp green
+No heavy borders
+No dark themes
+Page must feel:
+Premium, modern, calm, trustworthy
+8️⃣ PERFORMANCE & BEHAVIOR
+Page must load fast on mobile
+Images lazy-loaded
+WhatsApp links must never break
+No modals, no popups
+Scroll must feel smooth and light
+9️⃣ FINAL PRODUCT GOAL (NON-NEGOTIABLE)
+User flow must be:
+Open link from Instagram bio
+Trust the agent in 3 seconds
+Scroll listings
+Tap WhatsApp
+Start conversation
+Anything that does not support this flow must be removed or avoided.
+❗ FINAL NOTE TO DEVELOPER
+Do not:
+Over-engineer
+Add “nice to have” features
+Think like a portal
+Think like:
+“One tap from Instagram → WhatsApp conversation”
+Build exactly that.
